@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+title: Snapping 3D graphene
+logo: logo_BoNi.svg # You can add own logo.
+description: Engineer energy dissipation in 3D graphene nanolattice via reversible snap-through instability
 
 
 #-------------------------------
@@ -13,25 +13,39 @@ author:
   say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
   bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
 
+# ------------------------------
+# Paper setting (Replacing Author Setting)
+paper:
+  Author: Bo Ni
+  image: figs-tot.jpg
+  title: Engineer energy dissipation in <strong>3D graphene nanolattice</strong> via reversible <strong>snap-through instability</strong>
+  short-abs: >
+    The energy dissipation in graphene nanolattice is enhanced via a novel design with 
+    snap-through instability. In this paper, we have constructed a group of reconfigurable 
+    graphene nanolattices based on a straw-like unit design. Combining molecular dynamics 
+    and theoretical model, pseudo plasticity and hysteresis of the nanolattices are 
+    demonstrated and explained. With these novel toughening mechanisms, the designed graphene 
+    nanolattice is predicted to be tolerant of crack-like flaw and dissipate energy better 
+    than carbon steel.
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+# twitter: https://twitter.com/ # Add your Twitter handle
+# facebook: https://facebook.com/ # Add your Facebook handle
+# dribbble: https://dribbble.com/ # Add your Dribbble handle
+# instagram: https://instagram.com/ # Add your Instagram handle
+# pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: Bo Ni # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: # Add instagram username
 
 
 #-------------------------------
