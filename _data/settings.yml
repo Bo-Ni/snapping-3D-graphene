@@ -17,6 +17,8 @@ author:
 # Paper setting (Replacing Author Setting)
 paper:
   Author: Bo Ni
+  Email: bo_ni@brown.edu
+  AuthorList: Bo Ni, Huajian Gao
   image: figs-tot.jpg
   title: Engineer energy dissipation in <strong>3D graphene nanolattice</strong> via reversible <strong>snap-through instability</strong>
   short-abs: >
