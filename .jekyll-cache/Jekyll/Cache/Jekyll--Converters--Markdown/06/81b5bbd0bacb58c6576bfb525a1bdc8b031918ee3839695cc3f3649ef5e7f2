@@ -1,15 +1,20 @@
-I"T<p>Molecular dynamics (MD) simulations of graphene nanolattices</p>
+I"9<p>Molecular dynamics (MD) simulations of graphene nanolattices</p>
 
 <hr />
+<h3 id="figures">Figures</h3>
+
+<p><img src="/snapping-3D-graphene/images/figures/fig1.jpg" alt="" />
+<em>Backyard</em></p>
+
 <h2 id="video-list-of-selected-simulations-for-the-jam-paper">Video list of selected simulations for the JAM paper</h2>
 
 <ol>
-  <li><a href="/zolan/images/videos/M1_Tension_test_of_a_SCNT_nanolattice_with_3_units.mp4">Uniaxial tension test of a straw-like carbon nanotube (SCNT) nanolattice with 3 unit cells.</a></li>
-  <li><a href="/zolan/images/videos/M2_Tension_test_of_3D_nanolattice_with_27_units.mp4">Uniaxial tension test of a 3D graphene ananolattice with 3-by-3-by-3 unit cells.</a></li>
-  <li><a href="/zolan/images/videos/M3_Compression_test_of_3D_nanolattice_with_27_units.mp4">Uniaxial compression test of a 3D graphene ananolattice with 3-by-3-by-3 unit cells.</a></li>
-  <li><a href="/zolan/images/videos/M4_Tension_test_of_3D_nanolattice_with_90_units.mp4">Uniaxial tension test of a 3D graphene ananolattice with 3-by-3-by-10 unit cells.</a></li>
-  <li><a href="/zolan/images/videos/M5_Compression_test_of_3D_nanolattice_with_90_units.mp4">Uniaxial compression test of a 3D graphene ananolattice with 3-by-3-by-10 unit cells.</a></li>
-  <li><a href="/zolan/images/vidoes/M6_Tension_test_of_nanolattice_slab_with_an_edge_crack.mp4">Uniaxial tension test of a graphene ananolattice slab with an edge crack.</a></li>
+  <li><a href="/snapping-3D-graphene/images/videos/M1_Tension_test_of_a_SCNT_nanolattice_with_3_units.mp4">Uniaxial tension test of a straw-like carbon nanotube (SCNT) nanolattice with 3 unit cells.</a></li>
+  <li><a href="/snapping-3D-graphene/images/videos/M2_Tension_test_of_3D_nanolattice_with_27_units.mp4">Uniaxial tension test of a 3D graphene ananolattice with 3-by-3-by-3 unit cells.</a></li>
+  <li><a href="/snapping-3D-graphene/images/videos/M3_Compression_test_of_3D_nanolattice_with_27_units.mp4">Uniaxial compression test of a 3D graphene ananolattice with 3-by-3-by-3 unit cells.</a></li>
+  <li><a href="/snapping-3D-graphene/images/videos/M4_Tension_test_of_3D_nanolattice_with_90_units.mp4">Uniaxial tension test of a 3D graphene ananolattice with 3-by-3-by-10 unit cells.</a></li>
+  <li><a href="/snapping-3D-graphene/images/videos/M5_Compression_test_of_3D_nanolattice_with_90_units.mp4">Uniaxial compression test of a 3D graphene ananolattice with 3-by-3-by-10 unit cells.</a></li>
+  <li><a href="/snapping-3D-graphene/images/vidoes/M6_Tension_test_of_nanolattice_slab_with_an_edge_crack.mp4">Uniaxial tension test of a graphene ananolattice slab with an edge crack.</a></li>
 </ol>
 
 <hr />
@@ -101,7 +106,7 @@
 
 ### Images
 
-![](/zolan/images/09.jpg)
+![](/snapping-3D-graphene/images/09.jpg)
 *Backyard*
 
 ***

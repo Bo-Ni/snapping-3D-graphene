@@ -4,11 +4,12 @@
 
       {% if paginator.previous_page %}
       
-      {% if paginator.previous_page == 1 %}
-        <a class="previous-link" href="/">Prev Posts</a>
-      {% else %}
-        <a class="previous-link" href="/page/{{ paginator.previous_page }}/">Prev Posts</a>
-      {% endif %}
+        {% if paginator.previous_page == 1 %}
+          <!--<a class="previous-link" href="/">Prev Posts</a>-->
+          <a class="previous-link" href="{{ site.baseurl }}/">Prev Posts</a>
+        {% else %}
+          <a class="previous-link" href="/page/{{ paginator.previous_page }}/">Prev Posts</a>
+        {% endif %}
       
       {% else %}
         <span class="disabled">Prev Posts</span>

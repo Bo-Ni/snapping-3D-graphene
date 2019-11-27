@@ -2,7 +2,7 @@
 layout: post
 title:  "Design straw with graphene: unit cell that snaps"
 date:   2019-11-25 18:05:55 +0300
-image:  Part_II.jpg
+image:  Part_II_resize.jpg
 tags:   Unit cell design
 ---
 

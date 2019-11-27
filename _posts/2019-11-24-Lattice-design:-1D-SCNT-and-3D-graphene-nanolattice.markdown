@@ -2,8 +2,8 @@
 layout: post
 title:  "Lattice design: 1D SCNT and 3D graphene nanolattice"
 date:   2019-11-25 18:05:55 +0300
-image:  Part_II.jpg
-tags:   Unit cell design
+image:  Part_III.jpg
+tags:   Lattice design
 ---
 
 The present study is aimed to address the challenge of toughening carbon nanolattice with the potential of snap-through instability in engineering overall material behavior. Through mechanism-inspired structure design, MD simulations and theoretical analysis, we present a novel design of 3D graphene nanolattice with snap-through instability and demonstrate that it can effectively dissipate deformation energy without accumulating irreversible damages via pseudo plastic deformation.

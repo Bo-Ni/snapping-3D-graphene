@@ -1,0 +1,114 @@
+I"1<p>Molecular dynamics (MD) simulations of graphene nanolattices</p>
+
+<hr />
+<h3 id="figures">Figures</h3>
+
+<p><img src="/snapping-3D-graphene/images/figures/fig1.jpg" alt="" />
+<em>Fig. 1. Unit cell of shell structure in flexible straws and its nanoscale graphene counterpart engineered via topological design. (a) Geometry of the unit cell structure in straws. (b-c) The fully folded and fully extended states of flexible straws. (d) Phase field crystal simulation of a 2D crystal sample growing on the designed shell surface. (e) The atomic structure of the graphene unit cell with straw-like geometry after MD relaxation and the topological defects distributed at the inner and outer folds.</em></p>
+
+<h2 id="video-list-of-selected-simulations-for-the-jam-paper">Video list of selected simulations for the JAM paper</h2>
+
+<ol>
+  <li><a href="/snapping-3D-graphene/images/videos/M1_Tension_test_of_a_SCNT_nanolattice_with_3_units.mp4">Uniaxial tension test of a straw-like carbon nanotube (SCNT) nanolattice with 3 unit cells.</a></li>
+  <li><a href="/snapping-3D-graphene/images/videos/M2_Tension_test_of_3D_nanolattice_with_27_units.mp4">Uniaxial tension test of a 3D graphene ananolattice with 3-by-3-by-3 unit cells.</a></li>
+  <li><a href="/snapping-3D-graphene/images/videos/M3_Compression_test_of_3D_nanolattice_with_27_units.mp4">Uniaxial compression test of a 3D graphene ananolattice with 3-by-3-by-3 unit cells.</a></li>
+  <li><a href="/snapping-3D-graphene/images/videos/M4_Tension_test_of_3D_nanolattice_with_90_units.mp4">Uniaxial tension test of a 3D graphene ananolattice with 3-by-3-by-10 unit cells.</a></li>
+  <li><a href="/snapping-3D-graphene/images/videos/M5_Compression_test_of_3D_nanolattice_with_90_units.mp4">Uniaxial compression test of a 3D graphene ananolattice with 3-by-3-by-10 unit cells.</a></li>
+  <li><a href="/snapping-3D-graphene/images/vidoes/M6_Tension_test_of_nanolattice_slab_with_an_edge_crack.mp4">Uniaxial tension test of a graphene ananolattice slab with an edge crack.</a></li>
+</ol>
+
+<hr />
+<p>Through the simulations, the deformation process can be observed in detail. It can be observed that,</p>
+<ul>
+  <li>Snap-through events of unit cells happens in a discrete manner</li>
+  <li>The sudden relase of deformation energy after snap-through generate elastic waves</li>
+  <li>The order of unit cells undergoing snap-through is random.</li>
+</ul>
+
+<p>Combining with the theoretical model, MD simualtions unveil the mechanisms generating pseudo plasticity and hystersis of the nanolattices with large numbers of unit cells.</p>
+
+<!--
+### Headings by default:
+
+# This is the default title
+## This is the default title
+### This is the default title
+#### This is the default title
+##### This is the default title
+###### This is the default title
+
+
+<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="gu">## Heading first level</span>
+<span class="gu">### Heading second level</span>
+<span class="gu">#### Heading third level</span></code></pre></figure>
+
+
+***
+
+### Lists
+
+#### Ordered list example:
+
+1. Poutine drinking vinegar bitters.
+2. Coloring book distillery fanny pack.
+3. Venmo biodiesel gentrify enamel pin meditation.
+4. Jean shorts shaman listicle pickled portland.
+5. Salvia mumblecore brunch iPhone migas.
+
+***
+
+#### Unordered list example:
+
+* Bitters semiotics vice thundercats synth.
+* Literally cred narwhal bitters wayfarers.
+* Kale chips chartreuse paleo tbh street art marfa.
+* Mlkshk polaroid sriracha brooklyn.
+* Pug you probably haven't heard of them air plant man bun.
+
+
+<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="p">1.</span> Order list item 1
+<span class="p">2.</span> Order list item 1
+<span class="p">
+*</span> Unordered list item 1
+<span class="p">*</span> Unordered list item 2</code></pre></figure>
+
+
+***
+
+### Quotes
+
+> Coming together is a beginning; keeping together is progress; working together is success. — Edward Everett Hale
+
+***
+
+### Syntax Highlighter
+
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js">  <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">.top</span><span class="dl">'</span><span class="p">).</span><span class="nx">click</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+    <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">html, body</span><span class="dl">'</span><span class="p">).</span><span class="nx">stop</span><span class="p">().</span><span class="nx">animate</span><span class="p">({</span> <span class="na">scrollTop</span><span class="p">:</span> <span class="mi">0</span> <span class="p">},</span> <span class="dl">'</span><span class="s1">slow</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="s1">swing</span><span class="dl">'</span><span class="p">);</span>
+  <span class="p">});</span>
+  <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">scroll</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="nx">$</span><span class="p">(</span><span class="k">this</span><span class="p">).</span><span class="nx">scrollTop</span><span class="p">()</span> <span class="o">&gt;</span> <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">height</span><span class="p">())</span> <span class="p">{</span>
+      <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">.top</span><span class="dl">'</span><span class="p">).</span><span class="nx">addClass</span><span class="p">(</span><span class="dl">"</span><span class="s2">top-active</span><span class="dl">"</span><span class="p">);</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+      <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">.top</span><span class="dl">'</span><span class="p">).</span><span class="nx">removeClass</span><span class="p">(</span><span class="dl">"</span><span class="s2">top-active</span><span class="dl">"</span><span class="p">);</span>
+    <span class="p">};</span>
+  <span class="p">});</span></code></pre></figure>
+
+
+***
+
+### Videos
+
+<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+
+***
+
+### Images
+
+![](/snapping-3D-graphene/images/09.jpg)
+*Backyard*
+
+***
+-->
+:ET
