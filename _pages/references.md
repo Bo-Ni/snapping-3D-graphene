@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "References"
-date: 2019-11-22 18:05:55 +0300
+layout: page
+title: Refeneces
+permalink: /References/
 image: figs-tot.jpg
-tags: "Many thanks"
 ---
 
+***
 ## References:
 1. Bauer, J., Meza, L. R., Schaedler, T. A., Schwaiger, R., Zheng, X., and Valdevit, L., 2017, "Nanolattices: an emerging class of mechanical metamaterials," Advanced Materials, 29(40), p. 1701850.
 2. Bauer, J., Schroer, A., Schwaiger, R., and Kraft, O., 2016, "Approaching theoretical strength in glassy carbon nanolattices," Nature materials, 15(4), p. 438.
@@ -74,24 +74,88 @@ tags: "Many thanks"
 65. Terdalkar, S. S., Huang, S., Yuan, H., Rencis, J. J., Zhu, T., and Zhang, S., 2010, "Nanoscale fracture in graphene," Chemical Physics Letters, 494(4-6), pp. 218-222.
 
 
+
 <!--
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+### Headings by default:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# This is the default title
+## This is the default title
+### This is the default title
+#### This is the default title
+##### This is the default title
+###### This is the default title
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+{% highlight markdown %}
+## Heading first level
+### Heading second level
+#### Heading third level
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+***
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Lists
+
+#### Ordered list example:
+
+1. Poutine drinking vinegar bitters.
+2. Coloring book distillery fanny pack.
+3. Venmo biodiesel gentrify enamel pin meditation.
+4. Jean shorts shaman listicle pickled portland.
+5. Salvia mumblecore brunch iPhone migas.
+
+***
+
+#### Unordered list example:
+
+* Bitters semiotics vice thundercats synth.
+* Literally cred narwhal bitters wayfarers.
+* Kale chips chartreuse paleo tbh street art marfa.
+* Mlkshk polaroid sriracha brooklyn.
+* Pug you probably haven't heard of them air plant man bun.
+
+{% highlight markdown %}
+1. Order list item 1
+2. Order list item 1
+
+* Unordered list item 1
+* Unordered list item 2
+{% endhighlight %}
+
+***
+
+### Quotes
+
+> Coming together is a beginning; keeping together is progress; working together is success. — Edward Everett Hale
+
+***
+
+### Syntax Highlighter
+
+{% highlight js %}
+  $('.top').click(function () {
+    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
+  });
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > $(window).height()) {
+      $('.top').addClass("top-active");
+    } else {
+      $('.top').removeClass("top-active");
+    };
+  });
+{% endhighlight %}
+
+***
+
+### Videos
+
+<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+
+***
+
+### Images
+
+![]({{site.baseurl}}/images/09.jpg)
+*Backyard*
+
+***
 -->

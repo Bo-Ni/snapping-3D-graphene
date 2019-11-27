@@ -1,0 +1,82 @@
+I"�<p>In this section, we construct a theoretical model to explain our observation of 3D graphene nanolattice with snap-through stability and predict the collective behavior of samples with large members of unit cells.</p>
+
+<h2 id="theoretical-model-1d-bi-stable-element-chain">Theoretical model: 1D bi-stable element chain</h2>
+
+<p><img src="/snapping-3D-graphene/images/figures/fig5.jpg" alt="" />
+<em>Fig. 5 A theorical model of 1D chain of bi-stable elements. (a) Abstracting the graphene nanolattice with straw-like unit cell into a 1D bi-stable element chain. (b) The constitutive law of a single bi-stable element based on the MD data. (c-d) Theoretical predictions of the stable deformation branches and the paths taken under tension and compression loading on the stress-strain and strain energy density-strain curves.</em></p>
+
+<p>We adopted a theoretical model of 1D chain of bi-stable elements to study the nanolattices (Fig. 5 a) phenomenologically.</p>
+<ul>
+  <li>The unit cell is characterized by the stress-strain curve with a spinodal region and two stress-free equilibrium configurations with different lengths and stiffnesses, Phase I and II ( Fig. 5 b)</li>
+  <li>THe unit cells are identical and connected one after another along the axial direction.</li>
+  <li>We define the state of the system using the numbers of elements in the Phase I, II and spinodal region respectively. Different states correspond to different stress-free equilibrium configurations.</li>
+</ul>
+
+<p>Assume the deformation process is quasi-static and over-damped. By force balance and stable equlibrium condition, we can find for a given displacement-controlled loading path,</p>
+<ul>
+  <li>Multiple deforamtion branches with different system states exits.</li>
+  <li>These branches often discontinous.</li>
+  <li>These branches have overlapping on the strain interval.</li>
+</ul>
+
+<p>By applying the condition of the continouity of loading strain, we can find the realized deformation path. The theortical model explains the observation of MD simulations. Specificly,</p>
+<ul>
+  <li>The discontinuity of stable deformation branches results in the saw-teeth like stress-strain curves.</li>
+  <li>The overlapping of stable deformation branches leads to the hysteresis loop in cyclic loading.</li>
+</ul>
+
+<p>The theoretical prediction and the MD simulations show a good agreement (Fig. 6 a and b).</p>
+
+<h2 id="what-happens-when-the-lattice-have-a-large-number-of-unit-cells">What happens when the lattice have a large number of unit cells?</h2>
+
+<p>Comparing the MD results, we noted that as the number of unit cell along the axial direction increases,</p>
+<ul>
+  <li>the amplitude of stress oscillations along tension/compression paths decreases,</li>
+  <li>the area of hysteresis loop increases. 
+Based on this observation, it becomes interesting to predict</li>
+  <li>the asymptotic behavior of nanolattice samples with large numbers of unit cells</li>
+  <li>the upper bound of energy dissipation for this nanolattice design.</li>
+</ul>
+
+<p><img src="/snapping-3D-graphene/images/figures/fig6.jpg" alt="" />
+<em>Fig. 6 Validating the theoretical model and predicting the collective behavior of nanolattice with a large number of unit cells. (a-b) MD results and theoretical predictions of stress-strain and strain energy density-strain curves of the nanolattice with 10 elements along the axial direction during a tension-compression loop. (c-d) Theorical prediction of the deformation of a nanolattice with 1000 elements along the axial direction and its comparison to that of a single bi-stable element.</em></p>
+
+<p>By keeping increasing unit cell number in the theoretical model, we observed the deformation behavior converges to (Fig. 6 c and d)</p>
+<ul>
+  <li>a pseudo plastic behavior: yield and flow happens without irriversible damage,</li>
+  <li>a finite hysteresis loop dissipating strain energy.</li>
+</ul>
+
+<p>With these toughening mechanisms, the energy dissipation per unit mass of graphene nanolattice for a full loop between the fully folded and extended states can approach 233 kJ/kg (One order higher than the energy absorbed by carbon steel at failure, 16 kJ/kg ).</p>
+
+<h2 id="flaw-tolerance-loading-with-an-edge-crack">Flaw-tolerance: Loading with an edge crack</h2>
+
+<p>At last, we demonstrated the effect of the energy dissipation mechanisms enabled in this novel 3D graphene nanolattice on resisting crack propagation.</p>
+
+<p><img src="/snapping-3D-graphene/images/figures/fig7.jpg" alt="" />
+<em>Fig. 7 MD simulation of a tension test of a graphene nanolattice slab with an edge crack. (a) Geometry of the graphene nanolattice. (b) The overall stress-strain curve. (c)  Crack trapping due to the band-like region around the crack tip transformed into the extended state via snap-through events.</em></p>
+
+<p>The graphene nanolattice with snap-through instability can tolerate crack-like flaw and behave in a ductile manner within the pseudo plastic deformation region.</p>
+
+<!--
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+-->
+:ET
