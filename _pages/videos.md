@@ -15,7 +15,7 @@ Molecular dynamics (MD) simulations of graphene nanolattices
 3. [Uniaxial compression test of a 3D graphene ananolattice with 3-by-3-by-3 unit cells.]({{site.baseurl}}/images/videos/M3_Compression_test_of_3D_nanolattice_with_27_units.mp4)
 4. [Uniaxial tension test of a 3D graphene ananolattice with 3-by-3-by-10 unit cells.]({{site.baseurl}}/images/videos/M4_Tension_test_of_3D_nanolattice_with_90_units.mp4)
 5. [Uniaxial compression test of a 3D graphene ananolattice with 3-by-3-by-10 unit cells.]({{site.baseurl}}/images/videos/M5_Compression_test_of_3D_nanolattice_with_90_units.mp4)
-6. [Uniaxial tension test of a graphene ananolattice slab with an edge crack.]({{site.baseurl}}/images/vidoes/M6_Tension_test_of_nanolattice_slab_with_an_edge_crack.mp4)
+6. [Uniaxial tension test of a graphene ananolattice slab with an edge crack.]({{site.baseurl}}/images/videos/M6_Tension_test_of_nanolattice_slab_with_an_edge_crack.mp4)
 
 ***
 Through the simulations, the deformation process can be observed in detail. It can be observed that,
